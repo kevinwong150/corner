@@ -1,0 +1,91 @@
+team_id,full_name,name,tournament_id,tournament_name
+1,Chelsea,Chelsea,1,Premier League
+2,Swansea City,Swansea,150,Championship
+3,West Bromwich Albion,West Brom,150,Championship
+4,Manchester City,Man City,1,Premier League
+5,Manchester United,Man Utd,1,Premier League
+6,Everton,Everton,1,Premier League
+7,West Ham United,West Ham,1,Premier League
+8,Arsenal,Arsenal,1,Premier League
+9,Wigan Athletic,Wigan,150,Championship
+10,Newcastle United,Newcastle,1,Premier League
+11,Fulham,Fulham,150,Championship
+12,Stoke City,Stoke,150,Championship
+14,Tottenham Hotspur,Tottenham,1,Premier League
+15,Norwich City,Norwich,1,Premier League
+16,Reading,Reading,150,Championship
+17,Aston Villa,Aston Villa,1,Premier League
+18,Liverpool,Liverpool,1,Premier League
+19,Queens Park Rangers,QPR,150,Championship
+20,Southampton,Southampton,1,Premier League
+157,Leeds United AFC,Leeds,150,Championship
+436,Millwall FC,Millwall,150,Championship
+676,Bristol Rovers FC,Bristol Rovers,265,League One
+1219,Macclesfield Town FC,Macclesfield,170,League Two
+1484,Swindon Town FC,Swindon,170,League Two
+1485,Crystal Palace FC,Crystal Palace,1,Premier League
+1486,Birmingham City FC,Birmingham,150,Championship
+1488,Cardiff City FC,Cardiff,150,Championship
+1489,Hull City AFC,Hull,150,Championship
+1490,Leicester City FC,Leicester,1,Premier League
+1491,Sheffield Wednesday FC,Sheff Wed,150,Championship
+1493,Ipswich Town FC,Ipswich,265,League One
+1495,Tranmere Rovers FC,Tranmere,265,League One
+1496,Peterborough United FC,Peterborough,265,League One
+1498,Watford FC,Watford,1,Premier League
+1499,Brighton & Hove Albion FC,Brighton,1,Premier League
+1500,Derby County FC,Derby,150,Championship
+1501,Barnsley FC,Barnsley,150,Championship
+1503,Middlesbrough FC,Middlesbrough,150,Championship
+1504,Bristol City FC,Bristol City,150,Championship
+1629,Burnley FC,Burnley,1,Premier League
+1637,Doncaster Rovers FC,Doncaster,265,League One
+1642,Blackburn Rovers FC,Blackburn,150,Championship
+1654,Blackpool FC,Blackpool,265,League One
+1657,Charlton Athletic FC,Charlton,150,Championship
+1666,Huddersfield Town FC,Huddersfield,150,Championship
+1673,Nottingham Forest FC,Nottm Forest,150,Championship
+1682,AFC Bournemouth,Bournemouth,1,Premier League
+1702,Bolton Wanderers FC,Bolton,265,League One
+1718,Sheffield United FC,Sheff Utd,1,Premier League
+1719,Carlisle United FC,Carlisle,170,League Two
+1720,Oldham Athletic AFC,Oldham,170,League Two
+1721,Milton Keynes Dons FC,Milton Keynes Dons,265,League One
+1752,Stevenage FC,Stevenage,170,League Two
+1753,Coventry City FC,Coventry,265,League One
+1853,Wycombe Wanderers FC,Wycombe,265,League One
+1854,AFC Wimbledon,AFC Wimbledon,265,League One
+1855,Preston North End FC,Preston,150,Championship
+1901,Burton Albion FC,Burton Albion,265,League One
+1903,Wolverhampton Wanderers FC,Wolverhampton,1,Premier League
+1940,Mansfield Town FC,Mansfield,170,League Two
+1945,Leyton Orient FC,Leyton Orient,170,League Two
+1946,Southend United FC,Southend,265,League One
+1951,Plymouth Argyle FC,Plymouth,170,League Two
+1952,Exeter City FC,Exeter,170,League Two
+1953,Bury FC,Bury,265,League One
+1955,Port Vale FC,Port Vale,170,League Two
+1956,Walsall FC,Walsall,170,League Two
+1968,Shrewsbury Town FC,Shrewsbury,265,League One
+1993,Rochdale AFC,Rochdale,265,League One
+1994,Crawley Town FC,Crawley Town,170,League Two
+2007,Fleetwood Town FC,Fleetwood Town,265,League One
+2015,Brentford FC,Brentford,150,Championship
+2086,Rotherham United FC,Rotherham,265,League One
+2087,Oxford United FC,Oxford Utd,265,League One
+2088,Gillingham FC,Gillingham,265,League One
+2089,Portsmouth FC,Portsmouth,265,League One
+2090,Scunthorpe United FC,Scunthorpe,170,League Two
+2162,Cambridge United FC,Cambridge Utd,170,League Two
+2188,Bradford City AFC,Bradford,170,League Two
+2375,Colchester United FC,Colchester,170,League Two
+2377,Crewe Alexandra FC,Crewe,170,League Two
+2378,Accrington Stanley FC,Accrington Stanley,265,League One
+2379,Luton Town FC,Luton,150,Championship
+2381,Cheltenham Town FC,Cheltenham,170,League Two
+2383,Northampton Town FC,Northampton,170,League Two
+2384,Morecambe FC,Morecambe,170,League Two
+3432,Forest Green Rovers FC,Forest Green R.,170,League Two
+3433,Grimsby Town FC,,170,League Two
+3864,Lincoln City FC,,265,League One
+4872,Salford City FC,,170,League Two

@@ -1,0 +1,24 @@
+data notes: 
+1. only league games
+2. home and away matches (all used)
+
+tournament_id: 1 (premier league)
+tournament_id: 150 (championship)
+tournament_id: 265 (league 1)
+tournament_id: 170 (league 2)
+
+(/season[])
+seasons[]: 17 (16/17)
+seasons[]: 20 (17/18)
+seasons[]: 21 (18/19)
+seasons[]: 40 (19/20)
+   
+tour[]: 1 (league)
+tour[]: 2 (cups)
+tour[]: 3 (international)
+tour[]: 4 (other)
+   
+m_type[]: 1 (home)
+m_type[]: 2 (away)
+
+show: 20 (show number of games, [20, 40, 60, 80, 100, all])

@@ -1,0 +1,41 @@
+field_number: 
+    2,3
+
+description: 
+    home/away last 10 games corners total average
+
+api:
+    https://corner-stats.com/index.php?route=module/getmatches/getTeamsAjax&event_type=corners
+    
+data:
+sample 1:
+    tour[]: 1
+    seasons[]: 21
+    seasons[]: 40
+    m_type[]: 1
+    m_type[]: 2
+    show: 60
+    team_id: 5 (man utd)
+    parameter: a:6:{s:8:"table_id";s:19:"table_corners_team1";s:19:"filter_last_matches";i:1;s:11:"filter_team";s:1:"5";s:5:"start";i:0;s:5:"limit";i:20;s:10:"is_filters";i:1;}
+    event_type: filter
+    event_value: 0
+    
+sample 2:
+    tour[]: 1
+    seasons[]: 21
+    seasons[]: 40
+    m_type[]: 1
+    m_type[]: 2
+    show: 60
+    team_id: 7 (westham)
+    parameter: a:6:{s:8:"table_id";s:19:"table_corners_team1";s:19:"filter_last_matches";i:1;s:11:"filter_team";s:1:"7";s:5:"start";i:0;s:5:"limit";i:20;s:10:"is_filters";i:1;}
+    event_type: filter
+    event_value: 0
+
+url_query:
+tour%5B%5D=1&seasons%5B%5D=21&seasons%5B%5D=40&m_type%5B%5D=1&m_type%5B%5D=2&show=60&team_id=7&parameter=a%3A6%3A%7Bs%3A8%3A%22table_id%22%3Bs%3A19%3A%22table_corners_team1%22%3Bs%3A19%3A%22filter_last_matches%22%3Bi%3A1%3Bs%3A11%3A%22filter_team%22%3Bs%3A1%3A%227%22%3Bs%3A5%3A%22start%22%3Bi%3A0%3Bs%3A5%3A%22limit%22%3Bi%3A20%3Bs%3A10%3A%22is_filters%22%3Bi%3A1%3B%7D&event_type=filter&event_value=0
+
+
+response_useful_data:
+    1. res[x..x+10][corner_count] (corner count of game...string)
+    notes: x becoz first x-1 record maybe upcoming match, on99
